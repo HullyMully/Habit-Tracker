@@ -26,10 +26,6 @@ A modern and intuitive habit tracking application built with Flutter, featuring 
   - Local notifications support
   - Persistent scheduling
 
-## Screenshots
-
-[Screenshots will be added soon]
-
 ## Getting Started
 
 ### Prerequisites
